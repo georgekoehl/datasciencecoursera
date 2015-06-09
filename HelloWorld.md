@@ -1,2 +1,2 @@
-## This is a markdown file:w
+## This is a markdown file
 
